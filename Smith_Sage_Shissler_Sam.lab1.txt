@@ -1,0 +1,20 @@
+﻿#1) birthday
+#2) song
+#3) 57
+#4) love
+#5) 13
+#6) happy birthday song is my heart is my heart is my heart is my heart is my heart is my heart
+#7) sad song is my heart is my heart is my heart is my heart is my heart is my heart is
+#8) hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey
+#9) little girl like you are you are you are you are you are you are you are you are you are
+#10) amore mio babbino caro nome na na na na na na na na na na na na na na na na
+#11) love you are you are you are you are you are you are you are you are you are you are
+#12) I am going to see if the most used key is contained in the string that I have already generated, and if it is, I am going to skip it and move on to the second most used key and so on.
+#13) montana sacra nova baby i love you are my heart is it up your eyes off dead end credits one more
+#14) bob marley is my heart attack ships that you are we go away too much love me down south side story
+#15) moon river blues away too much love you are my heart is it up your eyes off dead end credits can
+#16) It's really good at string regular expressions.
+#17) It doesn't check if variables have been initialized.
+#18) Yeah. It was challenging, but it didn't have an optimal solution.
+#19) Around 4 hours.
+#20) Yeah. Projects that involve a lot of parsing.
